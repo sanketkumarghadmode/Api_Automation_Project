@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HttpMethod" verbose="1">
+    <test name="Api_Automation_Project">
+        <classes>
+            <class name="com.MyApiProject.HTTP_Methods.PutRequest">
+            </class>
+        </classes>
+
+    </test>
+</suite>
