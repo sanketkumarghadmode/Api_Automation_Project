@@ -1,0 +1,12 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Sanket/IdeaProjects/Api_Automation_Project/src/test/java/com/MyApiProject/ex_Get_request_04">
+        <classes>
+            <class name="com.MyApiProject.HTTP_Methods.Get_request">
+                <methods>
+                    <include name="test_NonBDD_Get"/>
+                    <include name="Verify_pin_with_Negitive_num"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
