@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameter Keyword" verbose="1">
+    <test name="Api_Automation_Project">
+        <parameter name="Browser" value="FireFox"></parameter>
+        <classes>
+            <class name="com.MyApiProject.ex_TestNgPrograms_05.TestNg_Parameter_Keyword">
+            </class>
+        </classes>
+    </test>
+</suite>

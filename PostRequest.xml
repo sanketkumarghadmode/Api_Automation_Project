@@ -3,7 +3,7 @@
 <suite name="Suite2" verbose="1">
 <test name="Api_Automation_Project">
     <classes>
-        <class name="com.MyApiProject.HTTP_Methods.Post_Request">
+        <class name="com.MyApiProject.ex_HTTP_Methods_04.Post_Request">
 
         </class>
     </classes>

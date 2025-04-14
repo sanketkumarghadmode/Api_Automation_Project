@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Enabled Keyword" verbose="1">
+    <test name="Api_Automation_Project">
+        <classes>
+            <class name="com.MyApiProject.ex_TestNgPrograms_05.TestNg_Enable_KeyWord">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -3,9 +3,8 @@
 <suite name="HttpMethod" verbose="1">
     <test name="Api_Automation_Project">
         <classes>
-            <class name="com.MyApiProject.HTTP_Methods.PutRequest">
+            <class name="com.MyApiProject.ex_HTTP_Methods_04.PutRequest">
             </class>
         </classes>
-
     </test>
 </suite>
